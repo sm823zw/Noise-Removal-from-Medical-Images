@@ -17,3 +17,11 @@ For experiments, all the images were corrupted with Gaussian and Poisson noise w
 |      0.2     	|       Poisson (lambda = 5)      	|       0.2159       	|                  0.6118                 	|            0.2350            	|
 
 Auto-encoders performed extremely well as compared to median filtering.
+
+Demo -
+
+Noise factor - 0.5, Gaussian (mean = 0, stddev = 1)
+![image](https://user-images.githubusercontent.com/49569284/135032687-5b6b9f99-275b-48db-ac41-22bd2dfbd764.png)
+
+Noise factor - 0.2, Poisson (lambda = 1)
+![image](https://user-images.githubusercontent.com/49569284/135032440-faeb6d2b-a4cf-4c1c-bffc-d9b87153b42a.png)
